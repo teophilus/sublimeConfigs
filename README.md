@@ -1,1 +1,1 @@
-# sublimeConfigs
+# Sublime Configs
